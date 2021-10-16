@@ -47,7 +47,7 @@ WEBデザインの勉強と高校の学位取得のため働きながら頑張�
 - 介護スタッフ
 - 現在、給油スタッフ兼事務員
 
-- ［Github］　(https://kurosiba2021.github.io/kuro2021siba.github.io/)
+- ［Github］　(https://kurosiba2021.github.io/kuro2021siba.giithub.io/)
 - ［PhotoShop］
 
 ## contact
