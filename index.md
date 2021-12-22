@@ -1,4 +1,6 @@
-<img src="IDPhoto_履歴.jpg">
+<img src="IDPhoto_履歴.jpg">　
+
+<img src="wannko-1.ai">
 
 ## About
 
