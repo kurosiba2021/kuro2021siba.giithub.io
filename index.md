@@ -1,6 +1,7 @@
 <img src="IDPhoto_履歴.jpg">　
+![ロゴ］(黒柴.jpg)
 
-<img src="wannko-1.ai">
+
 
 ## About
 
