@@ -1,12 +1,11 @@
 <img src="IDPhoto_履歴.jpg" width="161*237">
 
      
-![作品１](黒柴.jpg)
-<img src="黒柴.jpg" width="161*237">
+![作品１]
+<img src="黒柴.jpg" width="100">
 
-
-<![作品２](sibaken.png) width="161*237">
-
+<![作品２](sibaken.png) width="100S">
+<img src="sibaken.png" width="100">
 ## About
 
 WEBデザインの勉強と高校の学位取得のため働きながら頑張っています。
