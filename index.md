@@ -1,11 +1,11 @@
 <img src="IDPhoto_履歴.jpg" width="161*237">
 
-     
 ![作品１]
 <img src="黒柴.jpg" width="100">
 
-<![作品２](sibaken.png) width="100S">
+![作品２]
 <img src="sibaken.png" width="100">
+
 ## About
 
 WEBデザインの勉強と高校の学位取得のため働きながら頑張っています。
@@ -53,10 +53,11 @@ WEBデザインの勉強と高校の学位取得のため働きながら頑張�
 - プールの監視員
 - ホタテの養殖業
 - 介護スタッフ
-- 現在、給油スタッフ兼事務員
+- 現在、給油スタッフ兼事務員３月２０日退職予定
+
 
 - ［Github］　(https://kurosiba2021.github.io/kuro2021siba.giithub.io/)
-- ［PhotoShop］
+
 
 ## contact
 
