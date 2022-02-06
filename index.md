@@ -1,4 +1,5 @@
-<img src="IDPhoto_履歴.jpg"
+<img src="IDPhoto_履歴.jpg" width="161*237">
+
      
 ![作品１](黒柴.jpg)
 
