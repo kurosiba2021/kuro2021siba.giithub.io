@@ -7,7 +7,7 @@
 <img src="sibaken.png" width="100">
 
 ![作品3]
-<img src="スクリーンショット（289）.png" width="100">
+<img src="スクリーンショット(289).png" width="100">
 
 ## About
 
