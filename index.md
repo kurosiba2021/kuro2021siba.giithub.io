@@ -1,4 +1,4 @@
-<img src="IDPhoto_履歴書写真.jpg" width="161*237">
+<img src="履歴書写真.jpg" width="161*237">
 
 ![作品１]
 <img src="黒柴.jpg" width="100">
